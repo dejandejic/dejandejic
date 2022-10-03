@@ -1,0 +1,93 @@
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+.portfolio {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.grid{
+    display: grid;
+    width: 114em;
+    grid-gap:2rem;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    align-items: start;
+    margin: 20px;
+}
+.grid-item{
+    background-color: aqua;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.grid-item:hover{
+    transform: translateY(-0.5%);
+    box-shadow: 0 2rem 4rem rgb(255, 255, 255);
+}
+
+.card-img{
+ display: block;   
+ width: 100%;
+ height: 20rem;
+ object-fit: cover;
+}
+
+.card-content{
+padding: 3rem;
+}
+.project-header{
+    font-size: 3rem;
+    font-weight: 500;
+    color: aliceblue;
+    margin-bottom: 1.5rem;
+}
+.description-text{
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.7;
+    color: grey;
+    margin-bottom: 2.5rem;
+}
+.project-btn{
+    display: block;
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(89, 91, 85);
+    background-color: rgb(155, 173, 167);
+    border: none;
+    border-radius: 0.4rem;
+    transition: 0.2s;
+    cursor: pointer;
+    letter-spacing: 0.1rem;
+}
+.project-btn span{
+    margin-left: 1rem;
+    transition: 0.2s;
+}
+
+.project-btn:hover,
+.project-btn:active{
+    background-color: rgb(106, 41, 153);
+}
+.project-btn:hover span,
+.project-btn:active span{
+margin-left: 1.5rem;
+}
+
+@media only screen and (max-widt: 60em) {
+    body{
+       padding: 3rem; 
+    }
+    .grid{
+        grid-gap: 3rem;
+    }
+}
