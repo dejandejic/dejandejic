@@ -2,8 +2,8 @@
 
 I'm Dejan Dejic!
 
-<i> Currently:</i> 
-Noroff Online Studies: Front-end Development
+<i> Currently:</i> </br>
+Noroff Online Studies: Front-end Development </br>
 Working part-time at Oslo Tennisarena as an administrative assistant.
 
 - 🔭 I’m currently working on ...
