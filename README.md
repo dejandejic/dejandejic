@@ -1,6 +1,7 @@
 <h2> Hey 👋 </h2>
 
 I'm Dejan Dejic!
+
 <i> Currently:</i> Noroff Online Studies: Front-end Development and and works part-time at Oslo Tennisarena as an administrative assistant.
 
 - 🔭 I’m currently working on ...
