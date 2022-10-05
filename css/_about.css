@@ -19,7 +19,12 @@
     max-width: 800px;
   }
   .experience {
-    display: flex;
+align-items: center;
+justify-content: center;
+    color: #91d0de;
+  }
+
+  .experience i{
     color: #91d0de;
   }
   
