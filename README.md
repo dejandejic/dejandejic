@@ -6,5 +6,3 @@ I'm Dejan Dejic!
 
 - Noroff Online Studies: Front-end Development
 - Working part-time at Oslo Tennisarena as an administrative assistant.
-
-<i class="fa-brands fa-html5"></i>
