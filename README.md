@@ -15,7 +15,7 @@ I slo enjoy UI, UX and design in general.
 - CSS
 - SCSS
 - JS
-- TypeScript
+- React
 - SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dejandejic&layout=compact)](https://github.com/dejandejic/github-readme-stats)
