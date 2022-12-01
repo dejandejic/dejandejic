@@ -5,9 +5,7 @@ I slo enjoy UI, UX and design in general.
 
 ## <i>	:round_pushpin: Currently:</i>
 
-- Noroff Online Studies: Front-end Development.
-- Working part-time at Oslo Tennisarena as an administrative assistant.
-- Working part-time as a teacher at primary school.
+- 
 
 ## <i>:computer: Skills: </i>
 
